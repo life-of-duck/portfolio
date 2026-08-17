@@ -526,7 +526,7 @@ tbody td:first-child {
   color: var(--ink);
   font-weight: 700;
 }
-tbody td:first-child span {
+tbody td:first-child .option-caption {
   display: block;
   font-weight: 400;
   font-size: 0.82rem;
