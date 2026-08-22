@@ -322,7 +322,7 @@ summary:focus-visible {
    =================================================================== */
 .hero {
   position: relative;
-  padding: 72px 0 96px;
+  padding: 56px 0 56px;
   overflow: hidden;
 }
 
@@ -371,7 +371,7 @@ summary:focus-visible {
   display: flex;
   flex-wrap: wrap;
   gap: 14px;
-  margin: 28px 0 4px;
+  margin: 20px 0 4px;
 }
 
 .hero-photo {
